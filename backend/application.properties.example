@@ -1,0 +1,7 @@
+# TMDB API Key - Get yours at themoviedb.org
+tmdb.api.key=YOUR_KEY_HERE
+
+# Hugging Face Token - Get yours at huggingface.co
+huggingface.api.token=YOUR_TOKEN_HERE
+
+server.port=8080
